@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
+c:\users\administrator\documents\visual studio 2010\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\RectangleApplication\RectangleApplication\obj\x86\Debug\RectangleApplication.exe
+c:\users\administrator\documents\visual studio 2010\Projects\RectangleApplication\RectangleApplication\obj\x86\Debug\RectangleApplication.pdb
