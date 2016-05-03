@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Operator\Operator\bin\Debug\Operator.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Operator\Operator\bin\Debug\Operator.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Operator\Operator\obj\x86\Debug\Operator.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Operator\Operator\obj\x86\Debug\Operator.pdb
