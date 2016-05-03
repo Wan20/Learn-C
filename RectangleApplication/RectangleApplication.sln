@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleApplication", "RectangleApplication\RectangleApplication.csproj", "{3847C568-1397-4022-AFC2-9DC65DCC97EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3847C568-1397-4022-AFC2-9DC65DCC97EC}.Debug|x86.ActiveCfg = Debug|x86
+		{3847C568-1397-4022-AFC2-9DC65DCC97EC}.Debug|x86.Build.0 = Debug|x86
+		{3847C568-1397-4022-AFC2-9DC65DCC97EC}.Release|x86.ActiveCfg = Release|x86
+		{3847C568-1397-4022-AFC2-9DC65DCC97EC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
