@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Switchstatement\Switchstatement\bin\Debug\Switchstatement.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Switchstatement\Switchstatement\bin\Debug\Switchstatement.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Switchstatement\Switchstatement\obj\x86\Debug\Switchstatement.exe
+c:\users\administrator\documents\visual studio 2010\Projects\Switchstatement\Switchstatement\obj\x86\Debug\Switchstatement.pdb
