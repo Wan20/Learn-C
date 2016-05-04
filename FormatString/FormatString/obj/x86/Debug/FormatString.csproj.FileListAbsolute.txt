@@ -1,0 +1,4 @@
+c:\users\administrator\documents\visual studio 2010\Projects\FormatString\FormatString\bin\Debug\FormatString.exe
+c:\users\administrator\documents\visual studio 2010\Projects\FormatString\FormatString\bin\Debug\FormatString.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\FormatString\FormatString\obj\x86\Debug\FormatString.exe
+c:\users\administrator\documents\visual studio 2010\Projects\FormatString\FormatString\obj\x86\Debug\FormatString.pdb
