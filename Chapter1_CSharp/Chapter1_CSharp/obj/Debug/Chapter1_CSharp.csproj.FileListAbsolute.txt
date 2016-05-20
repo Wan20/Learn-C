@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\Chapter1_CSharp\bin\Debug\Chapter1_CSharp.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\Chapter1_CSharp\bin\Debug\Chapter1_CSharp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\Chapter1_CSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\Chapter1_CSharp\obj\Debug\Chapter1_CSharp.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\Chapter1_CSharp\obj\Debug\Chapter1_CSharp.pdb

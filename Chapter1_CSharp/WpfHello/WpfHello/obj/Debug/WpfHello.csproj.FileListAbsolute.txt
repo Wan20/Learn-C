@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\bin\Debug\WpfHello.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\bin\Debug\WpfHello.pdb
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\Window1.baml
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\WpfHello_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\WpfHello.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\WpfHello.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\WpfHello.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\WpfHello.exe
+C:\Users\Administrator\Documents\Visual Studio 2008\Projects\Chapter1_CSharp\WpfHello\WpfHello\obj\Debug\WpfHello.pdb
